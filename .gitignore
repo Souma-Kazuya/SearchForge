@@ -29,6 +29,3 @@ build/
 *.egg-info/
 
 # Media and large assets
-demo.gif
-git.mp4
-social-card.png
