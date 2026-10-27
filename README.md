@@ -5,7 +5,7 @@
 
 ![Campus Route Search Visualizer Banner](./social-card.png)
 
-![Campus Route Search Visualizer Video](./git.mp4)
+![Campus Route Search Visualizer Demo](./demo.gif)
 
 [![Python 3.x](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![GUI Tkinter](https://img.shields.io/badge/GUI-Tkinter-388E3C?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
