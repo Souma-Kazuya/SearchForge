@@ -125,7 +125,6 @@ Simple-Reflex-vs-Goal-Based-Agent/
 ├── Main.py            # Complete application (Graph, Heuristic, UI & Search Algorithms)
 ├── README.md          # Project documentation
 ├── LICENSE            # MIT License
-└── social-card.png    # GitHub social preview banner (1280x640)
 ```
 
 ---
