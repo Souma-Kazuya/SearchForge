@@ -116,22 +116,22 @@ class CampusSearchGUI:
         btn_frame.pack(pady=6)
 
         # Button 1 – DFS (Uninformed, uses a Stack)
-        tk.Button(btn_frame, text="1. Run DFS (Exp 3)", command=self.animate_dfs,
+        tk.Button(btn_frame, text="1. Run DFS ", command=self.animate_dfs,
                   bg="#f38ba8", fg="#11111b", font=("Arial", 10, "bold"),
                   width=18, pady=5).grid(row=0, column=0, padx=5)
 
         # Button 2 – BFS (Uninformed, uses a Queue)
-        tk.Button(btn_frame, text="2. Run BFS (Exp 4)", command=self.animate_bfs,
+        tk.Button(btn_frame, text="2. Run BFS ", command=self.animate_bfs,
                   bg="#fab387", fg="#11111b", font=("Arial", 10, "bold"),
                   width=18, pady=5).grid(row=0, column=1, padx=5)
 
         # Button 3 – Greedy Best-First (Informed, uses only h(n))
-        tk.Button(btn_frame, text="3. Run Greedy (Exp 5)", command=self.animate_greedy,
+        tk.Button(btn_frame, text="3. Run Greedy ", command=self.animate_greedy,
                   bg="#89b4fa", fg="#11111b", font=("Arial", 10, "bold"),
                   width=19, pady=5).grid(row=0, column=2, padx=5)
 
         # Button 4 – A* Search (Informed, uses g(n) + h(n) — most optimal)
-        tk.Button(btn_frame, text="4. Run A* Search (Exp 6)", command=self.animate_astar,
+        tk.Button(btn_frame, text="4. Run A* Search ", command=self.animate_astar,
                   bg="#a6e3a1", fg="#11111b", font=("Arial", 10, "bold"),
                   width=20, pady=5).grid(row=0, column=3, padx=5)
 
