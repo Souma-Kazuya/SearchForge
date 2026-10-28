@@ -83,7 +83,7 @@ class CampusSearchGUI:
         self.root = root  # root is the main tkinter window object
 
         # Set window title, size, and dark background color
-        self.root.title("Campus Route Analyzer: DFS, BFS, Greedy & A* (Exp 3, 4, 5, 6)")
+        self.root.title("Campus Route Analyzer: DFS, BFS, Greedy & A*")
         self.root.geometry("860x540")        # Width x Height in pixels
         self.root.configure(bg="#1e1e2e")    # Dark purple-ish background
 
