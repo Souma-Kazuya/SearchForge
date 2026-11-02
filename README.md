@@ -91,7 +91,7 @@ The interactive canvas uses distinctive color coding throughout the exploration 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Shubhankar-Kulkarni/Simple-Reflex-vs-Goal-Based-Agent.git
-cd Simple-Reflex-vs-Goal-Based-Agent
+cd SearchForge
 ```
 
 ### 2. Run the Visualizer
